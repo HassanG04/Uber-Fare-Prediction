@@ -1,0 +1,5 @@
+
+{
+  "name": "Uber Fare Predictor - MongoDB & ML Project",
+  "description": "A full-stack style React application simulating a MongoDB, FastAPI, and ML-integrated dashboard for ride-sharing fare predictions and analytics."
+}
