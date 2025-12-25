@@ -1,0 +1,12 @@
+Folder PATH listing for volume BOOTCAMP
+Volume serial number is 0000005F 0246:9FF7
+C:\USERS\APPLE\DESKTOP\UBER-FARE-PREDICTION-MAIN\CLIENT\SRC
+\---pages
+        Home.tsx
+        Info.tsx
+        Login.tsx
+        Predict.tsx
+        Profile.tsx
+        Result.tsx
+        SignUp.tsx
+        
